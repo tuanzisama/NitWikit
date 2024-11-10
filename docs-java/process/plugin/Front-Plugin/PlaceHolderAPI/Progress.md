@@ -1,5 +1,5 @@
 ---
-title: 进度条
+title: Progress
 sidebar_position: 7
 ---
 
