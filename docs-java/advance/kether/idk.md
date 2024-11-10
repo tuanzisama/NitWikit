@@ -3,7 +3,7 @@ title: 不知道放在哪
 sidebar_position: 6
 ---
 
-## 命名空间
+# 命名空间
 
 建议阅读：https://www.yuque.com/sacredcraft/kether/namespace
 

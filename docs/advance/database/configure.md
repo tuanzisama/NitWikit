@@ -4,7 +4,7 @@ slug: /database/configure
 sidebar_position: 3
 ---
 
-## 数据库配置
+# 数据库配置
 
 ### MySQL
 

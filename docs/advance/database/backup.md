@@ -4,7 +4,7 @@ slug: /database/backup
 sidebar_position: 4
 ---
 
-## 手动备份
+# 手动备份
 
 ### 使用命令行备份
 

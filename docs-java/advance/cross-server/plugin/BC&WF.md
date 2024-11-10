@@ -3,7 +3,7 @@ title: BungeeCord 端
 sidebar_position: 1
 ---
 
-## BungeeCord 端
+# BungeeCord 端
 
 支持 _BungeeCord/Waterfall_ 的插件
 

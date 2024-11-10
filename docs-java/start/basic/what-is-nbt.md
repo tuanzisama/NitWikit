@@ -3,7 +3,7 @@ title: 什么是NBT？
 sidebar_position: 9
 ---
 
-## 概念
+# 概念
 
 > NBT（二进制命名标签，NamedBinary Tags）格式是一种由众多的标签所组成的树状数据结构。在Minecraft中，其被广泛用于向存档文件中存储数据。所有的标签都有一个独立的数字 ID 和名称，以及一个负载。
 >

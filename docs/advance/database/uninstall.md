@@ -4,7 +4,7 @@ slug: /database/uninstall
 sidebar_position: 5
 ---
 
-## 数据库卸载
+# 数据库卸载
 
 当你乱捣鼓一通，然后给你数据库整炸了，还不会修，那除了花钱请大佬最好的办法就是删掉重新安装
 

@@ -4,7 +4,7 @@ slug: /task
 sidebar_position: 9
 ---
 
-## 同类插件比较
+# 同类插件比较
 
 <!--markdownlint-disable line-length-->
 

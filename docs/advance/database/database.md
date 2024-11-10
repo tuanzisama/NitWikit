@@ -4,7 +4,7 @@ slug: /database
 sidebar_position: 3
 ---
 
-## 数据库相关
+# 数据库相关
 
 :::info
 

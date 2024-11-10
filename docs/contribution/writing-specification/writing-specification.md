@@ -1,4 +1,5 @@
 ---
+title: 格式要求
 sidebar_position: 0
 slug: /contribution/writing
 ---

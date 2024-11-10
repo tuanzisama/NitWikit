@@ -3,7 +3,7 @@ title: 什么是命名空间？
 sidebar_position: 8
 ---
 
-## 概念
+# 概念
 
 > 命名空间ID（Namespaced identifier，或译为命名空间标识符）、资源路径（Resource location）、资源标识符（Resource identifier）或命名空间字符串（Namespaced string）是用来指明和识别游戏中特定对象而又能避免潜在的歧义和冲突的一种方式。
 

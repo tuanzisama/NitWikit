@@ -4,7 +4,7 @@ slug: /database/install
 sidebar_position: 1
 ---
 
-## 数据库安装
+# 数据库安装
 
 ### 直接安装
 

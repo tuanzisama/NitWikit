@@ -1,4 +1,5 @@
 ---
+title: 优化
 slug: /optimize
 sidebar_position: 1
 ---

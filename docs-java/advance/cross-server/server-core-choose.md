@@ -3,7 +3,7 @@ title: 核心选择
 sidebar_position: 1
 ---
 
-## 核心选择
+# 核心选择
 
 :::info
 
