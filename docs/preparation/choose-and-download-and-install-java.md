@@ -181,4 +181,6 @@ java -version
 
 # 本节视频教程
 
-[**点此前往B站**: 笨蛋级MC开服教程-第三集P1:实机演示安装JAVA](https://www.bilibili.com/video/BV1eT42167iZ/)
+[笨蛋级MC开服教程-第三集P1:实机演示安装JAVA](https://www.bilibili.com/video/BV1eT42167iZ/)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1706332969&bvid=BV1eT42167iZ&cid=1630934297&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="540px"></iframe>
